@@ -74,6 +74,7 @@ The project includes a dedicated section summarizing key SQL interview questions
 - 🏷️ **Provided By:** Elevate Labs  
 - 💻 **Internship Role:** Data Analyst
 
+
 ---
 
 ## 📌 Author & Credits
@@ -81,6 +82,25 @@ The project includes a dedicated section summarizing key SQL interview questions
 **By:** #**Mihir Sonar**#  
 **Internship:** Elevate Labs – Data Analyst Program  
 **Date:** [April 2025]
+
+---
+
+
+---
+
+## 🙌 Special Thanks
+- Built with guidance and support from **ELEVATE LABS** mentors.
+- Powered by curiosity, coffee ☕, and countless SQL queries! 😄
+
+---
+
+## 🌟 Final Note
+> "Data is the new oil.  
+> SQL is your drill.  
+> Let's keep digging for insights!" 🚀
+
+Thank you for visiting this project! ✨  
+Feel free to connect or reach out for any collaboration or suggestions! 🤝
 
 ---
 
